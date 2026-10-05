@@ -1,4 +1,4 @@
-ID artefak        : P01
+ID artefak        : 
 Judul             : Pengenalan Lingkungan Praktikum dan Kakas Pemodelan UML
 Pertemuan         : 01
 Sumber skenario   : Sistem Informasi Peminjaman dan Pengembalian Peralatan Laboratorium Kampus
