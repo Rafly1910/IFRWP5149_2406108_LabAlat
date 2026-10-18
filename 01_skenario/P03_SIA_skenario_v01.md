@@ -26,3 +26,12 @@ Batas dan asumsi:
 | Dosen Wali     | Mengvalidasi KRS dan memberikan catatan   |
 | Admin Akademik | mengelola jadwal kuliah                   |
 
+
+|ID Use Case| Nama Use Case             | Aktor Terkait     |Sumber Kebutuhan   |
+|-------------------------------------------------------------------------------|
+|SIA-UC01   | Lihat Jadwal Kuliah       | Mahasiswa         |SIA-R01            |
+|SIA-UC02   | Kelola Jadwal Kuliah      | Admin Akademik    |SIA-R02            |
+|SIA-UC03   | Ajukan KRS                | Mahasiswa         |SIA-R03            |
+|SIA-UC04   | Validasi KRS              | (System / Include)|SIA-R04            |
+|SIA-UC05   | Unduh Bukti Pengajuan KRS | Mahasiswa         |SIA-R05            |
+|SIA-UC06   | Proses Keputusan KRS      | Dosen Wali        |SIA-R06            |  
