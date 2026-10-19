@@ -3,3 +3,4 @@ Kakas : draw.io
 status latihan pertemuan 1 : Pengenalan Lingkungan Praktikum dan kakas pemodelam UML
 status latihan pertemuan 2 : UNIFIED MODELLING LANGUAGE (UML)
 status latihan pertemuan 3 : USE CASE DIAGRAM DAN USE CASE DESCRIPTION
+status latihan pertemuan 4 : USE CASE DIAGRAM LANJUTAN : GENERALIZATION DAN COLLABORATION
