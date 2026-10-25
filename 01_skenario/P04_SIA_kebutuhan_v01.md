@@ -1,13 +1,8 @@
- Setiap aktor mempunyai interaksi yang jelas. 
- Use case sesuai kebutuhan dan berada di dalam batas sistem. 
- Include mengarah ke perilaku yang disertakan. 
- Extend mengarah ke use case dasar. 
- Extension point berada pada use case dasar. 
- Kondisi extend tercantum dalam diagram/catatan dan deskripsi. 
- Pengajuan tetap berhasil tanpa perilaku tambahan. 
- Prasyarat dibedakan dari perilaku include. 
- Alur alternatif menjelaskan kegagalan dan hasil akhirnya. 
- Diagram dan deskripsi memakai nama serta ID yang sama. 
- Sumber dapat dibuka kembali. 
- Ekspor sesuai sumber terkini. 
- Kebutuhan yang belum dimodelkan ditandai, bukan dianggap selesai. 
+| ID      | Kebutuhan tugas                                                                                     |
+|---------|-----------------------------------------------------------------------------------------------------|
+| SIA-R07 | Mahasiswa dan Dosen, sebagai Civitas Akademika, dapat melihat kalender akademik.                    |
+| SIA-R08 | Dosen dapat menginput nilai mata kuliah yang diampunya.                                             |
+| SIA-R09 | Mahasiswa dapat melihat KHS untuk semester yang nilainya sudah dipublikasikan.                      |
+| SIA-R10 | Admin Akademik dapat mengelola data mahasiswa.                                                      |
+| SIA-R11 | Pengelolaan data mahasiswa terdiri dari tiga bentuk khusus: tambah, ubah, dan hapus data mahasiswa. |
+| SIA-R12 | Model menunjukkan collaboration yang merealisasikan Input Nilai Mata Kuliah dan Lihat KHS.          |
