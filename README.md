@@ -6,3 +6,4 @@ status latihan pertemuan 3 : USE CASE DIAGRAM DAN USE CASE DESCRIPTION
 status latihan pertemuan 4 : USE CASE DIAGRAM LANJUTAN : GENERALIZATION DAN COLLABORATION
 status latihan pertemuan 5 : USE CASE DIAGRAM LANJUTAN : SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN
 status latihan pertemuan 6 : ACTIVITY DIAGRAM: DARI SKENARIO KE ALUR AKTIVITAS
+status latihan pertemuan 7 : Assesment
